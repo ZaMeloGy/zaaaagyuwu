@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:shulker_box|true", "sophisticatedbackpacks:void_upgrade|true", "sophisticatedstorage:advanced_jukebox_upgrade|true", "sophisticatedstorage:diamond_shulker_box|true", "sophisticatedstorage:copper_shulker_box|true", "sophisticatedstorage:netherite_shulker_box|true", "sophisticatedbackpacks:feeding_upgrade|true", "sophisticatedbackpacks:advanced_void_upgrade|true", "sophisticatedstorage:auto_blasting_upgrade|true"]
+
